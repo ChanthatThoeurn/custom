@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Chanthat Thoeurn
-
-# 👋 Hi, I'm Chanthat Thoeurn
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanthatthoeurn&show_icons=true&theme=tokyonight)
 
 🎓 17-year-old Backend Developer  
 💻 Passionate about building real-world systems using Java and PostgreSQL  
@@ -70,7 +68,7 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: yourprofessionalemail@gmail.com
+- 📧 Email: chanthat.thoeurn@gmail.com
 - 💼 LinkedIn: (add later)
 - 🌍 Location: Phnom Penh, Cambodia
 
