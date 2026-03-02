@@ -1,38 +1,47 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanthatthoeurn&show_icons=true&theme=tokyonight)
+# 👋 Hi, I'm Chanthat Thoeurn
 
-🎓 17-year-old Backend Developer  
-💻 Passionate about building real-world systems using Java and PostgreSQL  
-🚀 Currently building scalable console-based and database-driven applications  
+🚀 Backend Developer | Java & PostgreSQL Enthusiast  
+💻 Passionate about building real-world management systems  
+📍 Phnom Penh, Cambodia  
 
 ---
 
 ## 🧠 About Me
-- 🔭 Currently working on: Online Food Ordering System (Java + PostgreSQL)
-- 🌱 Learning: Spring Boot & REST API development
-- 🎯 Goal: Become a professional Backend Engineer
-- ⚡ Strong understanding of OOP, DAO Pattern, and Database Design
+
+- 🔭 Currently building: Online Food Ordering System (Java + PostgreSQL)
+- 🌱 Learning: Spring Boot & REST API Development
+- 🎯 Goal: Become a Professional Backend Engineer
+- ⚡ Strong in OOP, DAO Pattern, Database Design
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming
 - Java
+- Spring
+- Spring Boot
 - C++
+- HTML
+- CSS
+- JavaScript
+- Taiwind
+- Reacte.js
+- Next.js
 - SQL
 
 ### 🗄️ Database
 - PostgreSQL
 - JDBC
 
-### 🏗️ Architecture & Concepts
+### 🏗️ Concepts
 - OOP (Encapsulation, Inheritance, Polymorphism)
 - DAO Pattern
-- MVC Structure
+- MVC Architecture
+- Authentication & Role Management
 - Exception Handling
-- Authentication & Role-Based Access Control
 
-### 🛠️ Tools
+### 🛠 Tools
 - Git & GitHub
 - IntelliJ IDEA
 - VS Code
@@ -43,34 +52,34 @@
 ## 📂 Featured Projects
 
 ### 🍔 Online Food Ordering System
-- Admin & Customer authentication
-- Role management (Admin, Doctor, Patient)
-- Menu management (CRUD)
+- Admin authentication system
+- Role-based user management
+- Menu CRUD operations
 - Order processing & billing
-- PostgreSQL database integration
+- PostgreSQL integration
 
 ### 🎓 Student Management System (C++)
-- Login & Registration system
+- Login & Registration
 - Role-based access (Teacher / Student)
-- Add, Search, Update, Delete students
-- File handling (CSV)
+- Add, Search, Update, Delete Students
+- CSV file handling
 
 ### 👷 Worker Management System (C++)
 - Salary calculation
-- Tax deduction based on gender
-- Sorting & searching algorithms
+- Tax deduction logic
+- Sorting & Searching features
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChanthatThoeurn&show_icons=true&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChanthatThoeurn&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: chanthat.thoeurn@gmail.com
-- 💼 LinkedIn: (add later)
-- 🌍 Location: Phnom Penh, Cambodia
+## 📫 Contact
+
+- 📧 Email: yourprofessionalemail@gmail.com
 
 ---
 
